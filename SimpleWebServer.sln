@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleWebServer", "SimpleWebServer\SimpleWebServer.csproj", "{7BD9A545-DFAA-49FD-B423-56807F97B4B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleWebServerExample", "SimpleWebServerExample\SimpleWebServerExample.csproj", "{3A7B9B32-72E7-4BD9-9DEE-12C4D47D79E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BD9A545-DFAA-49FD-B423-56807F97B4B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BD9A545-DFAA-49FD-B423-56807F97B4B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BD9A545-DFAA-49FD-B423-56807F97B4B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BD9A545-DFAA-49FD-B423-56807F97B4B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A7B9B32-72E7-4BD9-9DEE-12C4D47D79E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A7B9B32-72E7-4BD9-9DEE-12C4D47D79E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A7B9B32-72E7-4BD9-9DEE-12C4D47D79E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A7B9B32-72E7-4BD9-9DEE-12C4D47D79E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
